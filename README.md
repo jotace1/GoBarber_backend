@@ -23,12 +23,14 @@
   <a href="#-licença">Lincença</a>
 </p>
 
-
+<img src="https://github.com/jotace1/GoBarber_web/raw/master/src/assets/Capa.png"/>
 
 ### 📌 Sobre
 O GoBarber é uma aplicação voltada para cabeleireiros.
 Os usuários da aplicação, poderão realizar agendamentos para cortes de cabelos e afins de um prestador de serviços.
 Já os profissionais do área, terão controle de todos os agendamentos que já foram marcados, recebendo notificações de novos agendamentos.
+
+
 
 ### 📎 Features
 
